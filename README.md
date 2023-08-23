@@ -28,9 +28,8 @@ $ npm install alsa
 ```
 
 or via git:
-
 ```sh
-$ npm install git+https://github.com/xdissent/node-alsa.git
+$ npm install git+https://github.com/rowisahub/node-alsa.git
 ```
 
 
